@@ -1,1 +1,1 @@
-# Recursive BInary Search
+# Recursive Binary Search
